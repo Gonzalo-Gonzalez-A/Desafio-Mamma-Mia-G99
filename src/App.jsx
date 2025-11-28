@@ -10,7 +10,7 @@ import Register from "./components/Pages/Register";
 import HomePage from "./components/Pages/HomePage";
 import Main from "./components/Main";
 import Profile from "./components/Pages/Profile";
-import CartProvider from "./context/CardContext";
+import { CartProvider } from "./context/CartContext";
 import './App.css';
 
 
